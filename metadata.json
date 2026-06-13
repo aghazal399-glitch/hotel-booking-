@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Booking App",
+  "description": "A premium, fully interactive hotel booking application featuring gorgeous rooms, locations, filters, and dynamic booking flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
